@@ -13,7 +13,7 @@ I have 5 years experience in data science. I especially love new technologies th
 + Personality: Being hard-working, enthusiasm, carefulness, and a big will to learn 
 
 ### My hobbies
-+ Travel
++ Traveling
 + Coding
 + Learning
 + Reading
