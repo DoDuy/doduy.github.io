@@ -1,0 +1,29 @@
+---
+layout: base
+---
+
+<div class="intro-header"></div>
+
+<div role="main" class="container-md">
+  {{ content }}
+</div>
+
+<div id="webchat">
+<script src="https://storage.googleapis.com/mrbot-cdn/webchat-latest.js"></script>
+// Or you can replace latest with a specific version
+<script>
+  WebChat.default.init({
+    selector: "#webchat",
+    initPayload: "/get_started",
+    customData: {"language": "en"}, // arbitrary custom data. Stay minimal as this will be added to the socket
+    socketUrl: "http://192.168.100.28:5005",
+    socketPath: "/socket.io/",
+    title: "Helibot",
+    subtitle: "The intelligent chatbot of Heligate",
+    profileAvatar: "http://graph.facebook.com/2208689496127765/picture?type=square",
+    openLauncherImage: "1.gif",
+    mainColor: "gray",
+    // assistTextColor: "blue",
+  })
+</script>
+</div>
