@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-### My name is Duy Do. 
+### My name is Duy Do
 I have 5 years experience in data science
 I especially love new technologies that help solve real problems in the world:
 • Hands-on experience in big data/artificial intelligence development
@@ -15,7 +15,7 @@ I especially love new technologies that help solve real problems in the world:
 • Personality: Being hard-working, enthusiasm, carefulness, and a big will to learn 
 
 ### My hobbies
-Travel
-Coding
-Learning
-Reading
+• Travel
+• Coding
+• Learning
+• Reading
