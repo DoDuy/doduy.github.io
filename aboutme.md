@@ -4,13 +4,18 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Duy Do. I have the following qualities:
+### My name is Duy Do. 
+I have 5 years experience in data science
+I especially love new technologies that help solve real problems in the world:
+• Hands-on experience in big data/artificial intelligence development
+• Solid experience in Machine Learning, DeepLearning, and SAT
+• Strong background about statistics, probabilities, linear algebra and multivariable calculus
+• Research experience in various computer science fields
+• Highly logical thinking and good problem-solving skill
+• Personality: Being hard-working, enthusiasm, carefulness, and a big will to learn 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### My hobbies
+Travel
+Coding
+Learning
+Reading
