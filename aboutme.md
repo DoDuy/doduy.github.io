@@ -5,7 +5,6 @@ title: About me
 
 ### My name is Duy Do
 I have 4 years experience in data science. I especially love new technologies that help solve real problems in the world
-+ Hands-on experience in big data/artificial intelligence development
 + Solid experience in Machine Learning, DeepLearning, and SAT
 + Strong background about statistics, probabilities, linear algebra and multivariable calculus
 + Research experience in various computer science fields
