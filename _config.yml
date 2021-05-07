@@ -14,7 +14,7 @@ author: DuyDo
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Chatbot: "https://github.com/DoDuy"
+    - AISudokuSolver: "http://vtechfuture.com/AISudokuSolver"
     - Other: "https://github.com/DoDuy"
   Resume: "resume"
 
